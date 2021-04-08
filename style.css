@@ -1,0 +1,67 @@
+body header div{ 
+    width: 40%;
+    /* background-color: aquamarine; */
+}
+body header div img{
+    float: left;
+}
+body header h1{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+}
+body header p{
+    font-size: 10px;
+    position: relative;
+    bottom: 30px;
+    left: 45px;
+    opacity: 0.6;
+}
+
+body header nav{
+    float: right;
+    position: absolute;
+    /* background-color: blue; */
+    
+    top: 30px;
+    right: 70px;
+}
+body header hr{ 
+    width: 100%;
+    margin-left: 0%;
+    margin-right: auto;
+    height: 10px;
+    background-color:#666;opcaity: 0.5;
+}
+
+
+body main div h1{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+body main div{
+    
+    height: 100px;
+    /* background-color: brown; */
+}
+#print{
+    position:absolute;
+    left: 500px;
+    top: 200px;
+    
+}
+body main div h4{
+    opacity: 0.5;
+}
+body main div p{
+    position: absolute;
+    left:13px;
+    bottom: 75px;
+    font-size: 10px;
+    opacity: 0.5;
+}
+
+
+
+
+
+
