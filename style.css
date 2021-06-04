@@ -81,16 +81,21 @@ body main div p{
       position:relative;
       display: inline-block;
      left: 10px;
-      padding-left: 20px;
+      padding: left 100px;
     display: flex;
     width: 50%;
     height: 300px;
-    background-image: url(images\list-bg.png);
+    background-image: url(images/list-bg.png);
     background-repeat: no-repeat;
-    background-color: #e1e6ec;
-    background-size: contain;
+    top: 50%;
+    left: 10%;
+    clear: left;   
     
+    
+    /* background-size: contain; */
 
+  
+      
     
   }
   #ven{
